@@ -69,6 +69,18 @@
 
 ###
 
+<h2 align="left">CV</h2>
+
+###
+
+<p align="left">
+  You can find my detailed CV here:  
+  <a href="https://career.habr.com/yatseck" target="_blank" rel="noopener noreferrer">Habr Career Profile</a> |  
+  <a href="https://krasnodar.hh.ru/resume/657c9283ff0f307b550039ed1f736156386f46" target="_blank" rel="noopener noreferrer">hh.ru Resume</a>
+</p>
+
+###
+
 <h2 align="left">Contact me:</h2>
 
 ###
