@@ -99,10 +99,10 @@
 
 ###
 
-<h2 align="left">Contact me:</h2>
+<h2 align="left">Contact me</h2>
 
 <p align="left">
-  <a href="yatcekya@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
+  <a href="mailto:yatcekya@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" title="Gmail" />
   </a>
   <a href="https://telegram.me/Yatseck" target="_blank" rel="noopener noreferrer">
